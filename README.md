@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" width="200" alt="Zed Code application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/zed-code">
+<a href="https://ysids-apps-hub.github.io/.github/zed-code">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Zed Code macOS product page">
 </a><br><br>
 <div align="center">
